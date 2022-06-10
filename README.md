@@ -13,3 +13,21 @@ Links
 
 Images
 ![Test](https://learncodeonline.in/mascot.png)
+
+---
+use `for` loop
+
+```bash
+echo "What is your name?"
+read name
+echo "Nice to meet you $name"
+```
+***
+
+Test Tables
+
+| No | Name | Age |
+| --- | --- | --- |
+| 1 | Max | 33 |
+| 2 | Janele | 32 |
+
