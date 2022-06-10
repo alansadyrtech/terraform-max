@@ -12,4 +12,4 @@ Links
 [Visit test website] (https://learncodeonline.in)
 
 Images
-! [Test](https://learncodeonline.in/mascot.png)
+![Test](https://learncodeonline.in/mascot.png)
