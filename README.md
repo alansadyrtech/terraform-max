@@ -1,34 +1,13 @@
-# terraform-max
-Title: Testing
-## Test
-__Test__
-#### Test2
-**Testing bold font**
+# TEST
 
-~~testing~~
+## TEST
 
-Links
+This is test text body
 
-[Visit test website] (https://learncodeonline.in)
 
-Images
-![Test](https://learncodeonline.in/mascot.png)
+__Please note this is italic part__
 
----
-use `for` loop
+**This one is the bold part**
 
-```bash
-echo "What is your name?"
-read name
-echo "Nice to meet you $name"
-```
-***
-
-Test Tables
-
-| No | Name | Age |
-| --- | --- | --- |
-| 1 | Max | 33 |
-| 2 | Janele | 32 |
-| 3 | Bekush | 14 |
+~~And this one is for the crossline~~
 
